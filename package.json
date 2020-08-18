@@ -1,0 +1,23 @@
+{
+  "name": "react-ci-quick",
+  "version": "1.0.0",
+  "description": "React  脚手架配置",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maliang2283/react-ci-quick.git"
+  },
+  "keywords": ["react-project", "typescript-project", "react-typescript", "react-ts-quick-starter"],
+  "author": {
+     "name":"maLiang",
+     "url":"https://github.com/maliang2283",
+     "email":"maliang2283@163.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maliang2283/react-ci-quick/issues"
+  },
+  "homepage": "https://github.com/maliang2283/react-ci-quick#readme"
+}
