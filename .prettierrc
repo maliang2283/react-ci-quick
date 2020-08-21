@@ -1,13 +1,18 @@
 {
-  "trailingComma": "all",   // 对象的最后一个属性末尾也会添加 , ，比如 { a: 1, b: 2 } 会格式为 { a: 1, b: 2, }
-  "tabWidth": 2, //缩进大小
-  "semi": false, //分号是否添加
-  "singleQuote": true, //是否单引号
-  "jsxSingleQuote":true, //jsx 语法下是否单引号
+  // 对象的最后一个属性末尾也会添加
+  "trailingComma": "none",
+  "tabWidth": 2,
+  //分号是否添加
+  "semi": false,
+  //是否单引号
+  "singleQuote": true,
+  //jsx 语法下是否单引号
+  "jsxSingleQuote": true,
   "endOfLine": "lf",
-  "printWidth": 120, //单行代码最长字符长度，超过之后会自动格式化换行
-  "bracketSpacing": true, //在对象中的括号之间打印空格
-  "arrowParens": "always" //箭头函数的参数无论有几个，都要括号包裹
+  //单行代码最长字符长度超过之后会自动格式化换行
+  "printWidth": 120,
+  //在对象中的括号之间打印空格
+  "bracketSpacing": true,
+  //箭头函数的参数无论有几个都要括号包裹
+  "arrowParens": "always"
 }
-
-
